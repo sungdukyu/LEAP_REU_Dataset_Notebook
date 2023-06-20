@@ -12,5 +12,5 @@ In this tutorial, we show students how to use Python Xarray for preprocessing, a
 
 There are two versions:
 1. exercise version for student practice
-2. tutorial version for presentation the REU dataset
+2. tutorial version for presentation of the REU dataset
 
