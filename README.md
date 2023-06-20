@@ -1,6 +1,6 @@
 # LEAP_REU_Dataset_Notebook
 
-This repository contains two tutorials showing how to carry out climate analysis and apply machine learning techniques using [ClimSim](https://arxiv.org/abs/2306.08754) data for [2023 summer REU](https://github.com/leap-stc/LEAP-bootcamps) project.
+This repository contains two tutorials showing how to carry out climate analysis and apply machine learning techniques using [ClimSim](https://arxiv.org/abs/2306.08754) data for [2023 summer REU](https://github.com/leap-stc/LEAP-bootcamps) project at [LEAP center](https://leap.columbia.edu/).
 
 ### ML tutorial
 Containing two notebooks: 
