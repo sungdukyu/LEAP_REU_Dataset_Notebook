@@ -2,6 +2,9 @@
 
 This repository contains two tutorials showing how to carry out climate analysis and apply machine learning techniques using [ClimSim](https://arxiv.org/abs/2306.08754) data for [2023 summer REU](https://github.com/leap-stc/LEAP-bootcamps) project at [LEAP center](https://leap.columbia.edu/).
 
+### Data slicing and preprocessing 
+VERY IMPORTANT to read!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ### ML tutorial
 Containing two notebooks: 
 1. part1 shows how to prepare the data for ML purposes, such as subsampling and normalization
