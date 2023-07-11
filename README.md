@@ -5,7 +5,7 @@ This repository contains two tutorials showing how to carry out climate analysis
 ### Data slicing and preprocessing 
 REU23_slice_preprocess_data.ipynb
 
-It is a clean and efficient notebook. VERY IMPORTANT to read!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+It is a clean and efficient notebook using Dask packages and parallel running. VERY IMPORTANT to read!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ### ML tutorial
 Containing two notebooks: 
